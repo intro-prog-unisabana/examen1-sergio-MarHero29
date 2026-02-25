@@ -4,7 +4,7 @@
 # Pregunta 1: Beca 
 **Script:** `beca.py`
 
-En esta pregunta, deberás crear una Calculadora de Becas. El objetivo de este programa es determinar si un promedio académico (PA), número de horas de servicio comunitario y puntaje en las Pruebas Saber Pro son suficientes para obtener la beca Andrés Bello de Excelencia Académica (ABEA).
+En esta pregunta, deberás crear una Calculadora de Becas. El objetivo de este programa es determinar si un promedio académico (PA), número de horas de servicio comunitario y puntaje en las Pruebas Saber Pro son suficientes para bonner la beca Andrés Bello de Excelencia Académica (ABEA).
 
 ## Parte I: Requisitos del Programa
 
